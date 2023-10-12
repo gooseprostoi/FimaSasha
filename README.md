@@ -1,1 +1,5 @@
-# FimaSasha
+# GameX (provisional name)
+
+Libraries:
+- SFML
+- ...
